@@ -11,7 +11,7 @@ The whole config needed to use this component looks somewhat like this:
 
 ```yaml
 external_components:
-  - source: github://fabianonline/esphome-component-kld7@main
+  - source: github://rocknobx/esphome-component-kld7@main
     components: [ kld7 ]
 
 uart:
